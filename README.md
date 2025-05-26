@@ -77,7 +77,7 @@
 ## IDE
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio	" width="50" alt="Androidstudio	"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="50" alt="Androidstudio	"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="50" alt="Visual Studio"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" alt="vscode"/></td>
   </tr>
