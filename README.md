@@ -18,10 +18,9 @@
 ### Languages and Tools 🛠 
 
 <h4> Languages </h4>
-<span> 
+<p> 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-</span>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+</p>
 
 
 <h4> Frameworks, Libraries and Design</h4>
