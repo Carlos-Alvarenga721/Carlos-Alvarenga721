@@ -38,11 +38,11 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="JavaScript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="50" alt="PHP"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Python"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50" alt="Python"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="50" alt="Laravel"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind"/></td>
   </tr>
   <tr>
     <td align="center">React</td>
@@ -57,8 +57,8 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="JavaScript"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/vladiantio/skill-icons/MSSQL/icons/MSSQL-Dark.svg" width="50/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="Mysql"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/vladiantio/skill-icons/MSSQL/icons/MSSQL-Dark.svg" width="50" alt="SQL Server"></td>
   </tr>
   <tr>
     <td align="center">Mysql</td>
@@ -66,10 +66,19 @@
   </tr>
 </table>
 
-<h4> Operating Systems </h4>
-<span>
-  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-</span>
+## Operating Systems
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/></td>
+  </tr>
+  <tr>
+    <td align="center">Windows</td>
+    <td align="center">Linux</td>
+  </tr>
+</table>
+
 
 <h4> IDE </h4>
 <span>
