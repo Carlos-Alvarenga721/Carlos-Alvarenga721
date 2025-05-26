@@ -13,10 +13,6 @@
 
 ---
 ## Programming Languages🛠 
-  [![My Skills](https://skillicons.dev/icons?i=js,php,python,kotlin,ts,cs)](https://skillicons.dev)
-
-<h4>Programming Languages 🛠</h4>
-
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/></td>
@@ -35,7 +31,6 @@
 </table>
 
 ## Frameworks, Libraries and Design
-
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/></td>
@@ -79,26 +74,38 @@
   </tr>
 </table>
 
+## IDE
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio	" width="50" alt="Androidstudio	"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="50" alt="Visual Studio"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" alt="vscode"/></td>
+  </tr>
+  <tr>
+    <td align="center">Android Studio</td>
+    <td align="center">Visual Studio</td>
+    <td align="center">VS Code</td>
+  </tr>
+</table>
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-</span>
+## Other Tools and Technologies
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-
-</span>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="PHP"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="50" alt="NPM"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="Python"/></td>
+  </tr>
+  <tr>
+    <td align="center">Firebase</td>
+    <td align="center">NodeJS</td>
+    <td align="center">NPM</td>
+     <td align="center">Git</td>
+    <td align="center">TypeScript</td>
+  </tr>
+</table>
 
 <br/>
 
