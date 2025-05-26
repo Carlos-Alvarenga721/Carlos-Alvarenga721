@@ -1,4 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Carlos-Alvarenga721)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 # Hi there, I'm Carlos Alvarenga
 
@@ -19,6 +21,8 @@
 <span> 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 </span>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <h4> Frameworks, Libraries and Design</h4>
 <span>
