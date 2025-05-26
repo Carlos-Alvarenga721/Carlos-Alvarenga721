@@ -14,22 +14,11 @@
 - ⚡ Fun fact: I love to play soccer and work out 💪🏼.
 
 ---
-
-## Languages and Tools 🛠 
-
 ## Programming Languages🛠 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,php,python,kotlin,ts,cs)](https://skillicons.dev)
 
-
-
-<h4> Frameworks, Libraries and Design</h4>
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-</span>
+## Frameworks, Libraries and Design
+  [![My Skills](https://skillicons.dev/icons?i=react,laravel,bootstrap,figma)](https://skillicons.dev)
 
 <h4> Databases </h4>
 <span>
