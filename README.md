@@ -17,9 +17,10 @@
 
 ### Languages and Tools 🛠 
 
-<h4> Languages </h4>
-<p> 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+<h4>Languages</h4>
+
+<p>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 
