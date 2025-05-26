@@ -58,7 +58,7 @@
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="JavaScript"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/-MiTecnolog%C3%ADa-0078D6?style=flat-square&logoColor=white" width="80/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/vladiantio/skill-icons/MSSQL/icons/MSSQL-Dark.svg" width="50/></td>
   </tr>
   <tr>
     <td align="center">Mysql</td>
