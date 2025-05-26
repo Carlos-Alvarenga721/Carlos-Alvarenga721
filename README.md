@@ -22,24 +22,49 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php" width="50" alt="PHP"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="50" alt="Python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="Python"/></td>
   </tr>
   <tr>
     <td align="center">JavaScript</td>
     <td align="center">PHP</td>
     <td align="center">Python</td>
+     <td align="center">Kotlin</td>
+    <td align="center">TypeScript</td>
   </tr>
 </table>
 
-
 ## Frameworks, Libraries and Design
-  [![My Skills](https://skillicons.dev/icons?i=react,laravel,bootstrap,figma)](https://skillicons.dev)
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-  
-</span>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="JavaScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="50" alt="PHP"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50" alt="Python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Python"/></td>
+  </tr>
+  <tr>
+    <td align="center">React</td>
+    <td align="center">Laravel</td>
+    <td align="center">Bootstrap</td>
+     <td align="center">Figma</td>
+     <td align="center">Tailwind</td>
+  </tr>
+</table>
+
+## Databases
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="JavaScript"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-MiTecnolog%C3%ADa-0078D6?style=flat-square&logoColor=white" width="80/></td>
+  </tr>
+  <tr>
+    <td align="center">Mysql</td>
+    <td align="center">SQL Server</td>
+  </tr>
+</table>
 
 <h4> Operating Systems </h4>
 <span>
