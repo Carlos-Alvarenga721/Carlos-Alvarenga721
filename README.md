@@ -1,6 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=Carlos-Alvarenga721)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 # Hi there, I'm Carlos Alvarenga
 
@@ -16,6 +14,22 @@
 ---
 ## Programming Languages🛠 
   [![My Skills](https://skillicons.dev/icons?i=js,php,python,kotlin,ts,cs)](https://skillicons.dev)
+
+<h4>Programming Languages 🛠</h4>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="50" alt="PHP"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/></td>
+  </tr>
+  <tr>
+    <td align="center">JavaScript</td>
+    <td align="center">PHP</td>
+    <td align="center">Python</td>
+  </tr>
+</table>
+
 
 ## Frameworks, Libraries and Design
   [![My Skills](https://skillicons.dev/icons?i=react,laravel,bootstrap,figma)](https://skillicons.dev)
