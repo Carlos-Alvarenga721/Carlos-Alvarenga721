@@ -54,10 +54,12 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="Mysql"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/vladiantio/skill-icons/MSSQL/icons/MSSQL-Dark.svg" width="50" alt="SQL Server"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=oracle" width="50" alt="Oracle"/></td>
   </tr>
   <tr>
     <td align="center">Mysql</td>
     <td align="center">SQL Server</td>
+    <td align="center">Oracle</td>
   </tr>
 </table>
 
