@@ -20,7 +20,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="50" alt="Kotlin"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c#" width="50" alt="C#"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c-sharp" width="50" alt="C#"/></td>
   </tr>
   <tr>
     <td align="center">JavaScript</td>
@@ -28,6 +28,7 @@
     <td align="center">Python</td>
      <td align="center">Kotlin</td>
     <td align="center">TypeScript</td>
+    <td align="center">C#</td>
   </tr>
 </table>
 
