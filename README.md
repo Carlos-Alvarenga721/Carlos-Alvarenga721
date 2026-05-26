@@ -18,8 +18,9 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php" width="50" alt="PHP"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="50" alt="Python"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="Python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="50" alt="Kotlin"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c#" width="50" alt="C#"/></td>
   </tr>
   <tr>
     <td align="center">JavaScript</td>
