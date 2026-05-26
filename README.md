@@ -20,7 +20,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="50" alt="Kotlin"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c-sharp" width="50" alt="C#"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=csharp" width="50" alt="C#"/></td>
   </tr>
   <tr>
     <td align="center">JavaScript</td>
@@ -98,14 +98,12 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="PHP"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="50" alt="NPM"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="Python"/></td>
   </tr>
   <tr>
     <td align="center">Firebase</td>
     <td align="center">NodeJS</td>
     <td align="center">NPM</td>
      <td align="center">Git</td>
-    <td align="center">TypeScript</td>
   </tr>
 </table>
 
